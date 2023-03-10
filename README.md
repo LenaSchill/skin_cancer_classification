@@ -1,6 +1,12 @@
-# skin_cancer_classification
-Detecting melanoma with a CNN Neural Network
+# Skin Cancer Classification
+Detecting melanoma with a CNN
 
-To this day cancer is considered one of the largest causes of death. Especially skin cancer, untreated, can lead to severe damage. However, the survival average is very high if it is diagnosed in its early stages. Therefore, the early diagnosis of these skin lesion is important to prevent death.
+Skin cancer is the most common human malignancy, is primarily diagnosed visually, beginning with an initial clinical screening and followed potentially by dermoscopic analysis, a biopsy and histopathological examination. Automated classification of skin lesions using images is a challenging task owing to the fine-grained variability in the appearance of skin lesions.
 
-In the following I am creating a neural network which is classifying malicious skin lesions without the help of a doctor and thus accelerating the diagnosis. 
+This is the "Skin Cancer: Malignant vs Benign" (https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign) dataset. It consists of two folders with each 1800 pictures (224x244) of a balanced set of images of benign skin moles and malignant skin moles. All the rights of the Data are bound to the ISIC-Archive rights (https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main).
+
+In this project I will try to detect whether a sind lesion is malignant or not using CNN with keras tensorflow in backend and then analyse the result to see how the model can be useful in practical scenario.
+
+
+
+
