@@ -7,6 +7,6 @@ This is the "Skin Cancer: Malignant vs Benign" (https://www.kaggle.com/datasets/
 
 In this project I will try to detect whether a sind lesion is malignant or not using CNN with keras tensorflow in backend and then analyse the result to see how the model can be useful in practical scenario.
 
-![My Image]([/posts/path/to/img.jpg](https://github.com/LenaSchill/skin_cancer_classification/tree/main/images/accuracy.png) "Accuracy Graph")
+![alt text](images/accuracy.png) "Accuracy Graph")
 
 
